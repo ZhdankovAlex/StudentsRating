@@ -1,0 +1,7 @@
+examples of cmd arguments:
+--report  --course Matan --criterion attendance,test,plus --table --sort test=asc,plus=desc,attendance=desc
+--add-course --course Proga 
+--add-progress --course Proga --criterion test --group PMI11 --student-name Goddanov_Maxim --date today
+--add-student --group PMI11 --student-name Polyakova_Darya
+--dlt-student --course Matan --group PMI11 --student-name Goddanov_Maxim
+--edit-name --group PMI11 --student-id 7
